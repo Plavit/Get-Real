@@ -1,3 +1,5 @@
+<img id="GetReal-logo-text" width="400" src="assets/Logo-text.png">
+
 # Get-Real
 HackPrague 2021 project
 ## Description
