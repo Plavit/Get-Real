@@ -5,6 +5,7 @@ HackPrague 2021 project
 
 ## Description
 This project creates a dashboard for people to easily compare available real estate options and make better decisions
+![image](https://user-images.githubusercontent.com/22589593/137628652-1964cece-dc28-4db9-9ff5-24482d285ade.png)
 
 ## Deployment
 To run locally:
