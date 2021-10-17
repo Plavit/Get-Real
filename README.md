@@ -1,5 +1,7 @@
 # Get-Real
 HackPrague 2021 project
+## Description
+This project creates a dashboard for people to easily compare available real estate options and make better decisions
 
 ## Deployment
 To run locally:
@@ -14,3 +16,6 @@ Can be also deployed online via Heroku or a similar service
 ## Demo
 See the presentation here:
 https://youtu.be/ETPGva9MdXM
+
+## Presentation
+See the [PowerPoint slides](docs/GetReal-present.pdf)
