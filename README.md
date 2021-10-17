@@ -41,4 +41,6 @@ Created by Small Side Devs, a team formed at HackPrague 2021
 
 
 ## Disclaimer
-Many thanks to Lukas Krivka from Apify for a huge help getting our API scraper to work and Jiri Eckstein from Flatzone for help with their platform.
+- Many thanks to Lukas Krivka from Apify for a huge help getting our API scraper to work and Jiri Eckstein from Flatzone for help with their platform.
+- We used the bubble maps template from Plotly: https://plotly.com/python/bubble-maps/
+- We also used the basic CSS from this app: http://egov-t1.herokuapp.com/
