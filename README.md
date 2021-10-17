@@ -24,7 +24,9 @@ See the [PowerPoint slides](docs/GetReal-present.pdf)
 
 ## Team
 Created by Small Side Devs, a team formed at HackPrague 2021
-![image](https://user-images.githubusercontent.com/22589593/137628317-20c85a47-83c1-4042-8438-0cde96d32290.png)
+
+![image](https://user-images.githubusercontent.com/22589593/137628346-7735ff5a-01e1-4d36-9cae-bb11f63935ca.png)
+
 
 ## Disclaimer
 Many thanks to Lukas Krivka from Apify for a huge help getting our API scraper to work and Jiri Eckstein from Flatzone for help with their platform.
