@@ -23,6 +23,10 @@ The app gets data through scrapers via Apify on bezrealitky.cz and from Flatzone
 A further AI data processing using Python Scikit is planned, but not yet implemented. 
 ![image](https://user-images.githubusercontent.com/22589593/137628385-dacf80de-846f-49fa-b2a0-98b80f8b88eb.png)
 
+## Links
+Apify API store listing: https://apify.com/fcoudy/bezrealitkyscraper
+Devpost link: https://devpost.com/software/get-real
+
 ## Demo
 See the presentation here:
 https://youtu.be/ETPGva9MdXM
