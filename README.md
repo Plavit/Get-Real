@@ -19,3 +19,6 @@ https://youtu.be/ETPGva9MdXM
 
 ## Presentation
 See the [PowerPoint slides](docs/GetReal-present.pdf)
+
+## Disclaimer
+Many thanks to Lukas Krivka from Apify for a huge help getting our API scraper to work and Jiri Eckstein from Flatzone for help with their platform.
