@@ -1,0 +1,4 @@
+name,developer,gps,count,availableCount,price,pricePerM2,area,floorArea,usableArea,livingArea,totalArea,disposition,roomCount,ppc
+BYTOVÝ DŮM NAD PALOUČKEM; BEROUN,INSKY spol. s r.o.,{'lat': 49.959204979240894; 'lon': 14.045676346868277},1,1,None,None,{'min': 109.1; 'max': 109.1},{'min': 109.1; 'max': 109.1},None,None,None,['3+kk'],[3],0
+Berounská zahrada,Beroun Centrum; s.r.o.,{'lat': 49.958825572393835; 'lon': 14.063165271654725},37,37,{'min': 3950000; 'max': 5900000; 'currency': 'CZK'},{'min': 73333; 'max': 93181; 'currency': 'CZK'},{'min': 44.0; 'max': 75.0},None,None,None,{'min': 44.0; 'max': 75.0},['2+kk'; '3+kk'],[2; 3],0
+Rezidence Byty u Parku,PRECO GROUP s.r.o.,{'lat': 49.96011357754469; 'lon': 14.069660240784287},9,9,{'min': 6749999; 'max': 9900000; 'currency': 'CZK'},{'min': 87587; 'max': 103069; 'currency': 'CZK'},{'min': 66.46; 'max': 113.03},None,{'min': 66.46; 'max': 113.03},None,None,['3+kk'; '4+kk'],[3; 4],0
